@@ -94,4 +94,4 @@ Voici un exemple non valide de fichier JSON pour la commande précédente:
 
 Si vous souhaitez évaluer la partie frontend, malheureusement, celle-ci est loin d'être terminée.
 Avec un peu plus de temps (et pour l'entraînement) elle le sera, mais pour l'instant il n'y a qu'une page d'accueil avec la liste de tous les poulets dans la ferme, la cour ou le poulailler.
-Pour lancer le frontend, il vous faut vous lancer le serveur backend dans un premier tant, puis vous devez vous rendre dans le dossier chickenRun/frontend/chicken-run et lancer la commande `npm start`. 
+Pour lancer le frontend, il vous faut vous lancer le serveur backend dans un premier tant, puis vous devez vous rendre dans le dossier chickenRun/frontend/chicken-run et lancer la commande `npm start`. Le terminal vous dira que le port est déjà prit et vous demandera si vous en voulez un autre. Entrez `yes` et l'application web s'ouvrira.
